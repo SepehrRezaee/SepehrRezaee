@@ -18,6 +18,4 @@ Additionally, I have served as a Teaching Assistant for Advanced Programming, Da
 
 ![Profile views](https://komarev.com/ghpvc/?username=SepehrRezaee)
 
-[![SepehrRezaee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SepehrRezaee&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrRezaee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![SepehrRezaee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SepehrRezaee&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrRezaee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
