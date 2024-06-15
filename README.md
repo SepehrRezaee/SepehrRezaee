@@ -13,4 +13,4 @@ As a hobby, I usually use programming to solve real-world problems such as build
 ## Sepehr Rezaee's GitHub Stats
 [![SepehrRezaee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SepehrRezaee&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/SepehrRezaee)
+![Profile views](https://komarev.com/ghpvc/?username=SepehrRezaee)
