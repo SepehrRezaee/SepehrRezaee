@@ -15,7 +15,9 @@ My professional experience includes:
 I have received awards and honors, including the Best Ideator Award at the 7th National Young Scientists Festival and ranking among the top 0.5% in the entrance exam.
 
 Additionally, I have served as a Teaching Assistant for Advanced Programming, Data Mining and Analysis, and Basic Programming courses at the National University of Iran. I have also been actively involved in extracurricular activities, acting as an assistant teacher and mentor for the application of Data Science and Artificial Intelligence in various industries.
-[![SepehrRezaee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SepehrRezaee&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-![Profile views](https://komarev.com/ghpvc/?username=SepehrRezaee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrRezaee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![SepehrRezaee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SepehrRezaee&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=SepehrRezaee)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrRezaee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
