@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**SepehrRezaee/SepehrRezaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Ph.D student in computer science at Shahid Beheshti University (SBU), Tehran, Iran. My current studies can be summarized as:
 
-Here are some ideas to get you started:
+- Applications of machine learning methods in mathematics.
+- Applications of mathematics in machine learning methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a hobby, I usually use programming to solve real-world problems such as building websites, automating computer stuff, etc.
+
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrRezaee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Sepehr Rezaee's GitHub Stats
+[![SepehrRezaee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SepehrRezaee&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/SepehrRezaee)
