@@ -36,7 +36,7 @@ I'm **Sepehr Rezaee**, a Bachelor’s student in **Computer Science** at Shahid 
 - **Comparison of Pre-training and Classification Models for Early Detection of Alzheimer’s Disease Using MRI** (Accepted in I4C 2023)  
 - Multiple **ICCV 2025** submissions on data-free backdoor detection, robust non-convex optimization, and novelty detection under style shifts.  
 
-> *Full details and additional papers can be found on my [Google Scholar](https://scholar.google.com/citations?user=kYl9IWkAAAAJ&hl=en) and [CV](sepehrrezaee.github.io).*
+> *Full details and additional papers can be found on my [Google Scholar](https://scholar.google.com/citations?user=kYl9IWkAAAAJ&hl=en) and [CV](/SepehrRezaee_CV.pdf).*
 
 ---
 
