@@ -60,7 +60,7 @@ I'm **Sepehr Rezaee**, a Bachelor’s student in **Computer Science** at Shahid 
 - **Email:** [sepehrrezaee2002@gmail.com](mailto:sepehrrezaee2002@gmail.com)  
 - **GitHub:** [SepehrRezaee](https://github.com/SepehrRezaee)  
 - **LinkedIn:** [linkedin.com/in/sepehr-rezaee/](https://www.linkedin.com/in/sepehr-rezaee/)  
-- **Website:** [sepehrrezaee.github.io](https://sepehrrezaee.github.io/)  
+- **Website:** [sepehrrezaee.com](https://sepehrrezaee.com/)  
 
 ![Profile views](https://komarev.com/ghpvc/?username=SepehrRezaee)
 
