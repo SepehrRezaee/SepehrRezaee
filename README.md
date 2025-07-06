@@ -6,6 +6,8 @@ I'm **Sepehr Rezaee**, a Bachelor’s student in **Computer Science** at Shahid 
 - **Physics-Informed Neural Networks (PINNs)** and differential equation modeling  
 - **Secure and robust machine learning**, including backdoor and trojan detection
 
+You can see more details in my **[CV](/SepehrRezaee_CV.pdf)**
+
 ---
 
 ## Experience
