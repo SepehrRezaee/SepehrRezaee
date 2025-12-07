@@ -1,48 +1,61 @@
+
+
 # Hi there 👋
 
-I'm **Sepehr Rezaee**, an AI researcher, engineer, and innovator passionate about building robust, secure, and impactful machine learning systems.
+I'm **Sepehr Rezaee**, a Senior AI Architect specializing in agentic LLM systems, retrieval-augmented generation, and safety-first platforms with 5+ years of experience designing and operating production multi-agent services.
 
 - 🏫 **BSc in Computer Science, Shahid Beheshti University (2021–2025)**
-- 🧠 Research Intern @ [Mackenzie W. Mathis Lab, EPFL](https://www.mackenziemathislab.org/) (2025–Present)
-- 🤖 AI Engineer @ Agentic Systems / PropTy Global (2024–Present)
-- 🔬 Former Research Assistant @ Sharif University of Technology & Shahid Beheshti University
+- 🤖 Senior LLM Engineer @ [AIR Property, Dubai](https://www.linkedin.com/company/air-property/) (2025–Present)
+- 🏗️ AI Engineer, Agentic Systems @ [PropTy Global, Dubai](https://www.linkedin.com/company/propty-global/) (2024–2025)
+- 🧠 Research Intern @ [Mathis Lab, EPFL](https://www.mackenziemathislab.org/) (2025)
+- 🎓 Chief AI Officer & Multi-Agent Architect @ [Novel Mind Scientist, Tehran](https://www.linkedin.com/company/novel-mind-scientist/) (2022–2025)
 
 My focus areas:
 
-- **Deep Learning & Computer Vision:** Generative modeling, diffusion models, robust AI, adversarial defense, and AI safety.
-- **Physics-Informed Neural Networks (PINNs):** Applying deep learning to scientific and biomedical challenges.
-- **Large-Scale, Multi-Agent LLM Systems:** Designing scalable, production-grade AI architectures.
-- **Secure and Trustworthy AI:** Backdoor/trojan detection, model interpretability, and reliable ML in critical systems.
+- **AI Architecture & Multi-Agent Systems:** Designing scalable production multi-agent services with SLOs, error budgets, and cost/latency controls
+- **RAG Platforms & Safety:** Building retrieval-augmented generation systems with enterprise-grade governance and security
+- **MLOps at Scale:** Orchestrating reliable AI systems with Docker/Kubernetes, monitoring, and observability
+- **AI Security & Research:** Translating research on model security and evaluation into production practices
 
-See more in my [CV](/SepehrRezaee_CV.pdf).
+See more in my [CV](/SepehrRezaee_Resume.pdf).
 
 ---
 
 ## 🚀 Experience
 
-- **Research Intern @ Mackenzie W. Mathis Lab (EPFL, 2025–Present)**
-  - Co-authored an ICCV 2025 accepted paper, introducing DISTIL: a data-free, diffusion-driven framework for trigger inversion in Trojaned neural networks—setting new SOTA on BackdoorBench (+7.1% acc) and object detection scanning (+9.4%).
-  - Developed novel, safe, and interpretable generative modeling pipelines.
-  - Pioneered zero-shot, data-free defenses for backdoor attacks, advancing reliable machine learning for mission-critical use.
-  - Contributed to empirical evaluation and benchmarking for trustworthy AI.
+- **Senior LLM Engineer @ AIR Property (Dubai, 2025–Present)**
+  - Architected and shipped production LLM services (RAG + agents), owning model selection, agent/prompt design, eval harnesses, and fallback trees
+  - Introduced architecture blueprint for agent services with governed toolchain, improving reliability and reusability
+  - Built modular APIs with tests and dashboards for SLOs, error budgets, and safety metrics
+  - Drove data curation, vector caching, and inference optimization to stabilize throughput under peak load
 
-- **AI Engineer @ Agentic Systems / PropTy Global (2024–Present)**
-  - Architected and deployed multi-agent LLM platforms using LangChain, RAG, FastAPI, Docker, and Kubernetes.
-  - Achieved 85%+ task completion rates in autonomous business decision workflows.
-  - Reduced onboarding time by 15%, improved contextual relevance, and delivered sub-100ms real-time API performance.
+- **AI Engineer, Agentic Systems @ PropTy Global (Dubai, 2024–2025)**
+  - Architected multi-agent systems (LangChain + custom RAG) for autonomous recommendations/decisions
+  - Achieved 85%+ end-to-end task completion in business workflows
+  - Implemented agent-to-agent protocols and memory for context-aware planning and goal execution
+  - Productionized on Docker/Kubernetes with sub-100ms API path for critical endpoints
 
-- **Research Assistant @ Robust & Interpretable Machine Learning Lab, Sharif University of Technology (2024–2025)**
-  - Authored and submitted 3 papers to NeurIPS 2024 on ML security and reliability.
-  - Developed robust pipelines for adversarially resistant ML, including in autonomous driving and healthcare.
-  - Presented at international conferences, expanding academic collaboration.
+- **Chief AI Officer & Multi-Agent Architect @ Novel Mind Scientist (Tehran, 2022–2025)**
+  - Led delivery of LLM-powered agents across SaaS/health/education with measurable SLAs
+  - Scaled multi-agent orchestration (LangChain, Celery) and automated business processes
+  - Drove engineering standards (docs, ADRs, onboarding guides) to accelerate adoption
 
-- **Research Assistant @ AI & Scientific Computing Lab, Shahid Beheshti University (2023–2025)**
-  - Published and under-review papers on disease modeling, Fokker-Planck equations, and Alzheimer’s detection with MRI.
-  - Used PINNs for integrating physical laws into neural networks.
+- **Research Intern @ Mathis Lab, EPFL (Switzerland, 2025)**
+  - Co-authored ICCV 2025 accepted paper on DISTIL: data-free diffusion-based trigger inversion for Trojaned models
+  - Achieved new SOTA on BackdoorBench (+7.1% acc) and object-detection scanning (+9.4%)
+  - Built latent-diffusion pipelines with classifier-guided feedback to expose adversarial vulnerabilities
 
-- **Deep Learning & Neuroscience Intern @ IPM (2023–2024)**
-  - Led M/EEG signal decoding with advanced deep learning.
-  - Improved neural network architectures and research workflows.
+---
+
+## 🛠️ Core Skills & Technologies
+
+- **Agent Orchestration:** LangChain, LangGraph, LlamaIndex, Multi-Agent Systems, RAG, SPAR (Sense-Plan-Act-Reflect), Prompt Engineering
+- **Programming:** Python (expert), C++, Java, C#
+- **Infrastructure:** Docker (expert), Kubernetes (expert), AWS (SageMaker, EC2), GCP, Azure
+- **Databases/Vector:** Pinecone, Weaviate, Chroma, PostgreSQL (pgvector), MongoDB, Redis
+- **LLMs:** OpenAI GPT-3/4, Anthropic Claude, Google Gemini, HF Transformers
+- **MLOps & Services:** MLflow, Airflow, Celery, Prometheus, Grafana, ELK, FastAPI, Flask, REST/GraphQL
+- **Other:** Knowledge Graphs (Neo4j), Multimodal AI, Speech/Text Interfaces, SaaS Architecture
 
 ---
 
@@ -50,23 +63,13 @@ See more in my [CV](/SepehrRezaee_CV.pdf).
 
 - **DISTIL: Data-Free Inversion of Suspicious Trojan Inputs via Latent Diffusion** (ICCV 2025, accepted)
 - **Scanning Trojaned Models Using Out-of-Distribution Samples** (NeurIPS 2024, accepted)
-- **Comparison of Pre-Training and Classification Models for Early Detection of Alzheimer’s Disease Using MRI** (I4C 2023, accepted)
-- Multiple under-review and conference papers on robust optimization, data-free backdoor detection, and scientific ML.
-
-> 📰 See my [Google Scholar](https://scholar.google.com/citations?user=kYl9IWkAAAAJ&hl=en) and [CV](/SepehrRezaee_CV.pdf) for the full list.
-
----
-
-## 👨‍🏫 Teaching & Mentoring
-
-- **Head Teaching Assistant:** Advanced Programming, Data Mining & Analysis (Shahid Beheshti University)
-- **Teaching Assistant:** Basic Programming, project mentor for AI in industry (petrochemical, water, electricity)
+- **Comparison of Pre-Training and Classification Models for Early Detection of Alzheimer's Disease Using MRI** (I4C 2023)
 
 ---
 
 ## 🏆 Awards & Honors
 
-- **Best Ideator Award:** 7th National Young Scientists Festival (2023) – AI-based early Alzheimer’s assistant
+- **Best Ideator Award:** National Young Scientists Festival (2023)
 - **Top 0.2% National Entrance Exam:** Placed 352nd out of ~150,000 (2020)
 
 ---
