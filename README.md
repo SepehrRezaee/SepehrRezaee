@@ -5,7 +5,6 @@
 I'm **Sepehr Rezaee**, a Senior AI Architect specializing in agentic LLM systems, retrieval-augmented generation, and safety-first platforms with 5+ years of experience designing and operating production multi-agent services.
 
 - 🏫 **BSc in Computer Science, Shahid Beheshti University (2021–2025)**
-- 🤖 Senior LLM Engineer @ [AIR Property, Dubai](https://www.linkedin.com/company/air-property/) (2025–Present)
 - 🏗️ AI Engineer, Agentic Systems @ [PropTy Global, Dubai](https://www.linkedin.com/company/propty-global/) (2024–2025)
 - 🧠 Research Intern @ [Mathis Lab, EPFL](https://www.mackenziemathislab.org/) (2025)
 - 🎓 Chief AI Officer & Multi-Agent Architect @ [Novel Mind Scientist, Tehran](https://www.linkedin.com/company/novel-mind-scientist/) (2022–2025)
@@ -22,12 +21,6 @@ See more in my [CV](/SepehrRezaee_Resume.pdf).
 ---
 
 ## 🚀 Experience
-
-- **Senior LLM Engineer @ AIR Property (Dubai, 2025–Present)**
-  - Architected and shipped production LLM services (RAG + agents), owning model selection, agent/prompt design, eval harnesses, and fallback trees
-  - Introduced architecture blueprint for agent services with governed toolchain, improving reliability and reusability
-  - Built modular APIs with tests and dashboards for SLOs, error budgets, and safety metrics
-  - Drove data curation, vector caching, and inference optimization to stabilize throughput under peak load
 
 - **AI Engineer, Agentic Systems @ PropTy Global (Dubai, 2024–2025)**
   - Architected multi-agent systems (LangChain + custom RAG) for autonomous recommendations/decisions
