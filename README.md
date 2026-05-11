@@ -11,7 +11,7 @@ I focus on transforming real-world business and data problems into reliable AI p
 - 🔬 Research Intern, Safe & Generative AI @ **Mathis Lab, EPFL**
 - 🎓 B.Sc. in Computer Science, **Shahid Beheshti University**
 
-📄 See my full [CV](/SepehrRezaee_Original_Resume.pdf)
+📄 See my full [CV](/SepehrRezaee_Orginal_Resume.pdf)
 
 ---
 
